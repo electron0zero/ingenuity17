@@ -19,13 +19,13 @@ $.extend($.easing,
 
     $.fn.navScroller = function(options) {
         settings = $.extend({
-            scrollToOffset: 170,
+            scrollToOffset: 75,
             scrollSpeed: 800,
             activateParentNode: true,
         }, options );
         navItems = this;
 
-        //attatch click listeners
+        // attach click listeners
     	navItems.on('click', function(event){
     		event.preventDefault();
             var navID = $(this).attr("href").substring(1);
@@ -39,8 +39,8 @@ $.extend($.easing,
             );
     	});
 
-        //populate lookup of clicable elements and destination sections
-        populateDestinations(); //should also be run on browser resize, btw
+        // populate lookup of clickable elements and destination sections
+        populateDestinations(); // should also be run on browser resize, btw
 
         // setup scroll listener
         $(document).scroll(function(){
