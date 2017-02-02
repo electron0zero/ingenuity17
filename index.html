@@ -27,7 +27,8 @@
 
     {% for page in site.posts reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
-      <div id="{{id}}" class="section p-{{id}}">
+      <!--style="background-image:url({{ post.bg-img }});" This line gets and sets the bg image of page-->
+      <div id="{{id}}" class="section p-{{id}}" style="background-image:url({{ page.bg-img }});">
         {% if page.icon %}
         <div class="subtlecircle sectiondivider imaged">
           <img src="{{page.icon}}" alt="section icon" />
