@@ -7,4 +7,4 @@
     <a target="_blank" href="mailto:ingenuity@st.niituniversity.in"><i class="fa fa-envelope-o fa-3x sm-padding sm-hover" ></i></a>
 </span>
 
-<span> Forged with &#x1F499; by IngeNUity Team</span>
+<span> Made with &#x1F499; by IngeNUity Team</span>
