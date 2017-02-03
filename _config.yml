@@ -31,6 +31,9 @@ colors:
   orange:    '#fab125'
   turquoise: '#0fbfcf'
 
+collections:
+  events:
+
 kramdown:
   auto_ids:  false
 

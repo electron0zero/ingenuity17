@@ -19,16 +19,13 @@
 
     <nav><ul>
       {% for node in site.posts reversed %}
-        {% if node.page %}
           {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
           <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
-        {% endif %}
       {% endfor %}
     </ul></nav>
 
 
     {% for page in site.posts reversed %}
-      {% if page.page %}
         {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
         <!--style="background-image:url({{ post.bg-img }});" This line gets and sets the bg image of page-->
         <div id="{{id}}" class="section p-{{id}}" style="background-image:url({{ page.bg-img }});">
@@ -37,7 +34,6 @@
             
           </div>
         </div>
-      {% endif %}
     {% endfor %}
 
 
