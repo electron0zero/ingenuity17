@@ -2,7 +2,13 @@
 layout: default
 ---
 
-<div class="card__content">
+<script>
+    document.body.style.backgroundImage = "url( {{page.image}} )";
+    document.body.style.backgroundSize = "contain";
+    document.body.style.backgroundRepeat = "no-repeat";
+</script>
+
+<div class="card__content" >
   <i class="card__btn-close fa fa-times"></i>
   <div class="card__caption">
     <h2 class="card__title">{{ page.title }}</h2>
