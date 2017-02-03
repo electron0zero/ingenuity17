@@ -1,10 +1,12 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
+layout: event
+title:  "Absense of light"
+subtitle: "Only lights from space"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+image: "img/d.jpg"
+date:   2015-04-23 12:12:12
+layout: event
 ---
 
 ### Dolor sit amet?

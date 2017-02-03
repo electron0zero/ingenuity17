@@ -33,6 +33,8 @@ colors:
 
 collections:
   events:
+    output: true
+    permalink: /:path
 
 kramdown:
   auto_ids:  false
