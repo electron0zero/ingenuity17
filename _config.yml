@@ -1,12 +1,5 @@
----
-
-port: 4000
-host: 0.0.0.0
-safe: false
-
-
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
+exclude: [CNAME, README.md, .gitignore, debug.log]
 permalink: /:title ## disables post output
 timezone: null
 lsi: false
@@ -18,8 +11,6 @@ title:       "IngeNUity 2017"
 keywords:    "Ingenuity, Techno Fest, NIIT University, Fest, Cultural-fest"
 description: "Ingenuity Techo-Cultural Fest"
 bg-img: ""
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
-
 
 ### template colors, used site-wide via css ###
 colors:
@@ -31,6 +22,7 @@ colors:
   orange:    '#fab125'
   turquoise: '#0fbfcf'
 
+## events collection for events
 collections:
   events:
     output: true
