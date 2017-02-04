@@ -4,7 +4,8 @@ layout: default
 
 <nav>
   <ul>
-    {% for node in site.posts reversed %} {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+    {% for node in site.posts reversed %} 
+    {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
     <li class="p-{{id}}"><a href="#{{id}}" style="text-decoration:none;color: white;" >{{node.title}}</a></li>
     {% endfor %}
   </ul>
@@ -13,9 +14,63 @@ layout: default
 {% for page in site.posts reversed %}
     {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
     <!--style="background-image:url({{ post.bg-img }});" This line gets and sets the bg image of page-->
-    <div id="{{id}}" class="section p-{{id}}" style="background-image:url({{ page.bg-img }});background-repeat: no-repeat;">
+    <div id="{{id}}" class="section p-{{id}}" style="background-repeat: no-repeat;">
         <div class="container {{ page.style }}">
             {{ page.content }}
         </div>
+    </div>
+{% endfor %}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.4.0/trianglify.min.js"></script>
+
+<!--add Trianglify background -->
+{% for page in site.posts reversed %}
+    {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+        {% if page.home %}
+            <!--it's home page set random color-->
+            <script>
+            // get 
+            var page_id = {{ id | jsonify }}
+            // console.log( "page_id:" + page_id)
+                var pattern = Trianglify({
+                    width: window.innerWidth,
+                    height: window.innerHeight,
+                    cell_size: Math.random()*200 + 40,
+                    variance: Math.random(),
+                    stroke_width: Math.random()
+                });
+                var canvas = pattern.canvas()
+                // i am converting canvas to image/png and then using it as background-image
+                // it's not good, plz find a better way to do this
+                document.getElementById(page_id).style.backgroundImage = "url(" + canvas.toDataURL("image/png") + ")";
+                document.getElementById(page_id).style.backgroundRepeat = "no-repeat";
+                document.getElementById(page_id).style.backgroundSize = "cover";
+            </script>
+        {% else %}
+            <!--set fixed color-->
+            <script>
+            var page_id = {{ id | jsonify }}
+            console.log( "page_id:" + page_id)
+                var pattern = Trianglify({
+                    width: window.innerWidth,
+                    height: window.innerHeight,
+                    cell_size: 70,
+                    variance: 0.9,
+                    stroke_width: 0.6,
+                    x_colors: 'Spectral',
+                    y_colors: 'Spectral'
+                    // color_function : function(x, y) {
+                        // return '#1565c0';
+                    // }
+                });
+                var canvas = pattern.canvas()
+                // i am converting canvas to image/png and then using it as background-image
+                // it's not good, plz find a better way to do this
+                document.getElementById(page_id).style.backgroundImage = "url(" + canvas.toDataURL("image/png") + ")";
+                document.getElementById(page_id).style.backgroundRepeat = "no-repeat";
+                document.getElementById(page_id).style.backgroundSize = "cover";
+            </script>
+        {% endif %}
+            <!--document.getElementById({{id}}).style.backgroundImage = 'url(buttons/' + imagePrefix + '.png)';-->
     </div>
 {% endfor %}
