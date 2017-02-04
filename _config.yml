@@ -27,6 +27,27 @@ collections:
   events:
     output: true
     permalink: /:path
+  dance:
+    output: true
+    permalink: /:path
+  music:
+    output: true
+    permalink: /:path
+  literary:
+    output: true
+    permalink: /:path
+  photo:
+    output: true
+    permalink: /:path
+  drama:
+    output: true
+    permalink: /:path
+  tech:
+    output: true
+    permalink: /:path
+  fashion:
+    output: true
+    permalink: /:path
 
 kramdown:
   auto_ids:  false
