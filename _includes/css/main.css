@@ -260,52 +260,6 @@ nav ul li:hover, nav ul li.active {
 
 
 
-/* ----- fork on github banner ----- */
-#forkongithub a {
-  color:#fff;
-  text-decoration:none;
-  font-family:arial,sans-serif;
-  text-align:center;
-  font-weight:700;
-  font-size:1rem;
-  line-height:2rem;
-  position:relative;
-  transition:.5s;
-  padding:5px 40px;
-}
-#forkongithub a::before, #forkongithub a::after {
-  content:""; width:100%; display:block; position:absolute;
-  top:1px; left:0; height:1px; background:#fff;
-}
-#forkongithub a::after { bottom:1px; top:auto; }
-@media screen and (min-width:800px) {
-  #forkongithub {
-    position:fixed;
-    display:block;
-    top:0;
-    right:0;
-    width:200px;
-    overflow:hidden;
-    height:200px;
-    z-index:9999;
-  }
-  #forkongithub a {
-    width:200px;
-    position:absolute;
-    top:60px;
-    right:-60px;
-    transform:rotate(45deg);
-    -webkit-transform:rotate(45deg);
-    -ms-transform:rotate(45deg);
-    -moz-transform:rotate(45deg);
-    -o-transform:rotate(45deg);
-    box-shadow:4px 4px 10px rgba(0,0,0,0.8);
-    box-sizing: content-box;
-  }
-}
-
-
-
 /* mid size (tablets, landscapes) */
 @media only screen and (max-width: 679px) {
   nav { font-size:11px; }
@@ -359,6 +313,7 @@ nav ul li:hover, nav ul li.active {
 
 
 /*-- Extra.css contents*/
+
  .sm-padding {
     padding: 10px;
 }
@@ -438,3 +393,21 @@ nav ul li:hover, nav ul li.active {
 .portfolio-box:hover .portfolio-box-caption {
     opacity: 1;
 }
+
+
+
+/*a:hover {*/
+    /* border glow effect on hover */
+    /*box-shadow: 0px 0px 20px #000;*/
+    /*filter:progid:DXImageTransform.Microsoft.Glow(Color=black,Strength=20);*/
+/*}*/
+
+/*a:hover {*/
+    /* glow effect on hover */
+    /*text-shadow: -1px 1px 20px #ffc, 1px -1px 20px #fff;*/
+
+    /*-webkit-transition: text-shadow 250ms linear 0s;*/
+    /*-moz-transition: text-shadow 250ms linear 0s;*/
+    /*-o-transition: text-shadow 250ms linear 0s;*/
+    /*transition: text-shadow 250ms linear 0s;*/
+/*}*/
