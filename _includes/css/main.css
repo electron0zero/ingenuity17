@@ -397,17 +397,27 @@ nav ul li:hover, nav ul li.active {
 
 
 /*a:hover {*/
-    /* border glow effect on hover */
-    /*box-shadow: 0px 0px 20px #000;*/
-    /*filter:progid:DXImageTransform.Microsoft.Glow(Color=black,Strength=20);*/
+     /*border glow effect on hover*/
+     /*box-shadow: 0px 0px 20px #000;*/
+     /*filter:progid:DXImageTransform.Microsoft.Glow(Color=black,Strength=20);*/
 /*}*/
 
 /*a:hover {*/
-    /* glow effect on hover */
-    /*text-shadow: -1px 1px 20px #ffc, 1px -1px 20px #fff;*/
+     /*glow effect on hover */
+     /*text-shadow: -1px 1px 20px #ffc, 1px -1px 20px #fff;*/
 
     /*-webkit-transition: text-shadow 250ms linear 0s;*/
     /*-moz-transition: text-shadow 250ms linear 0s;*/
     /*-o-transition: text-shadow 250ms linear 0s;*/
     /*transition: text-shadow 250ms linear 0s;*/
 /*}*/
+
+/*.shadow {
+	border: 1px solid #ccc;
+	}
+
+.shadow:hover {
+	-moz-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	}*/
