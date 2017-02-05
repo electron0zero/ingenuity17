@@ -14,21 +14,21 @@ layout: default
 {% for page in site.posts reversed %}
     {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
     <!--style="background-image:url({{ post.bg-img }});" This line gets and sets the bg image of page-->
-    <div id="{{id}}" class="section p-{{id}}" style="background-repeat: no-repeat;">
+    <div id="{{id}}" class="section p-{{id}}" style="background-image:url({{ page.bg-img }}); background-repeat: no-repeat; background-size: cover;">
         <div class="container {{ page.style }}">
             {{ page.content }}
         </div>
     </div>
 {% endfor %}
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.4.0/trianglify.min.js"></script>
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.4.0/trianglify.min.js"></script>-->
 
 <!--add Trianglify background -->
-{% for page in site.posts reversed %}
+<!--{% for page in site.posts reversed %}
     {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
-        {% if page.home %}
+        {% if page.home %}-->
             <!--it's home page set random color-->
-            <script>
+            <!--<script>
             // get 
             var page_id = {{ id | jsonify }}
             // console.log( "page_id:" + page_id)
@@ -45,10 +45,10 @@ layout: default
                 document.getElementById(page_id).style.backgroundImage = "url(" + canvas.toDataURL("image/png") + ")";
                 document.getElementById(page_id).style.backgroundRepeat = "no-repeat";
                 document.getElementById(page_id).style.backgroundSize = "cover";
-            </script>
-        {% else %}
+            </script>-->
+        <!--{% else %}-->
             <!--set fixed color-->
-            <script>
+            <!--<script>
             var page_id = {{ id | jsonify }}
             console.log( "page_id:" + page_id)
                 var pattern = Trianglify({
@@ -69,8 +69,8 @@ layout: default
                 document.getElementById(page_id).style.backgroundImage = "url(" + canvas.toDataURL("image/png") + ")";
                 document.getElementById(page_id).style.backgroundRepeat = "no-repeat";
                 document.getElementById(page_id).style.backgroundSize = "cover";
-            </script>
-        {% endif %}
+            </script>-->
+        <!--{% endif %}-->
             <!--document.getElementById({{id}}).style.backgroundImage = 'url(buttons/' + imagePrefix + '.png)';-->
-    </div>
-{% endfor %}
+    <!--</div>
+{% endfor %}-->
