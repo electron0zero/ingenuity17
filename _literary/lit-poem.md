@@ -2,7 +2,7 @@
 layout: event
 title:  "Poem a Picture"
 subtitle: ""
-image: "img/f.jpg"
+image: "img/events/literary/poem.jpg"
 date:   2015-04-21 12:12:12
 ---
 Pictures speak a thousand words. We want to know what the picture tells you.  

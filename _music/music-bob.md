@@ -2,7 +2,7 @@
 layout: event
 title:  "Music"
 subtitle: "Voorpret-Battle of Bands"
-image: "img/a.jpg"
+image: "img/events/music/bob.jpg"
 date:   2015-04-20 12:12:12
 ---
 

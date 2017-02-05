@@ -1,7 +1,7 @@
 ---
 layout: category
 title:  "Literary"
-image: "img/c.jpg"
+image: "img/events/li.jpg"
 date:   2015-04-21 12:12:12
 ---
 

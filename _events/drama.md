@@ -1,7 +1,7 @@
 ---
 layout: category
 title:  "Dramatics"
-image: "img/e.jpg"
+image: "img/events/dr.jpg"
 date:   2015-04-21 12:12:12
 ---
 <section class="no-padding" id="portfolio">

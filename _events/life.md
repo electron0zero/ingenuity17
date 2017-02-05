@@ -1,7 +1,7 @@
 ---
 layout: category
 title:  "Fashion"
-image: "img/f.jpg"
+image: "img/events/fa.jpg"
 date:   2015-04-21 12:12:12
 ---
 <section class="no-padding" id="portfolio">

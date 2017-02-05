@@ -1,7 +1,7 @@
 ---
 layout: category
 title:  "Dance"
-image: "img/b.jpg"
+image: "img/events/da.jpg"
 date:   2015-04-21 12:12:12
 ---
 

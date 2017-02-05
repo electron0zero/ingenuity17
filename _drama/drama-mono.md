@@ -2,7 +2,7 @@
 layout: event
 title:  "Drama"
 subtitle: "Nunchi-Mono Acting"
-image: "img/e.jpg"
+image: "img/events/drama/mono.jpg"
 date:   2015-04-24 12:12:12
 layout: event
 ---

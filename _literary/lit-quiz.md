@@ -2,7 +2,7 @@
 layout: event
 title:  "Vilakshan-Quiz"
 subtitle: ""
-image: "img/f.jpg"
+image: "img/events/literary/quiz.jpg"
 date:   2015-04-21 12:12:12
 ---
 

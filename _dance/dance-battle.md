@@ -2,7 +2,7 @@
 layout: event
 title:  "Pulse"
 subtitle: "Open battle"
-image: "img/b.jpg"
+image: "img/events/dance/ba.jpg"
 date:   2015-04-21 12:12:12
 ---
 

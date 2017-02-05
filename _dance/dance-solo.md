@@ -2,7 +2,7 @@
 layout: event
 title:  "Maganyos"
 subtitle: " Solo Dance"
-image: "img/b.jpg"
+image: "img/events/dance/sl.jpg"
 date:   2015-04-21 12:12:12
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Fashion Show"
-image: "img/c.jpg"
+image: "img/events/fashion/fa.jpg"
 date:   2015-04-22 12:12:12
 layout: event
 ---

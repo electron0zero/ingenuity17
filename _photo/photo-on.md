@@ -2,7 +2,7 @@
 layout: event
 title:  "Zenosyne"
 subtitle: "Online Photography Event"
-image: "img/d.jpg"
+image: "img/events/photography/ph1.jpg"
 date:   2015-04-21 12:12:12
 ---
 

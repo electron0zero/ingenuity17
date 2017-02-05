@@ -2,7 +2,7 @@
 layout: event
 title:  "Music"
 subtitle: "Baleapop"
-image: "img/a.jpg"
+image: "img/events/music/open.jpg"
 date:   2015-04-20 12:12:12
 ---
 

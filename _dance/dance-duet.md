@@ -2,7 +2,7 @@
 layout: event
 title:  "Geminio"
 subtitle: " Duet Dance"
-image: "img/b.jpg"
+image: "img/events/dance/du.jpg"
 date:   2015-04-21 12:12:12
 ---
 
