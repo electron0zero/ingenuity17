@@ -5,13 +5,6 @@ timezone: null
 lsi: false
 markdown: kramdown
 
-
-### content configuration ###
-title:       "IngeNUity 2017"
-keywords:    "Ingenuity, Techno Fest, NIIT University, Fest, Cultural-fest"
-description: "Ingenuity Techo-Cultural Fest"
-bg-img: ""
-
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
