@@ -48,3 +48,5 @@ collections:
 kramdown:
   auto_ids:  false
 
+gems:
+  - jekyll-sitemap
