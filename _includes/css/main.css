@@ -177,7 +177,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 .section:first-of-type {
-    padding-top: 140px;
+    padding-top: 60px;
 }
 
 
@@ -428,7 +428,7 @@ nav ul li:hover, nav ul li.active {
 .clockdiv-bg {
     /*background-color: black;*/
     /*opacity: 0.8;*/
-    font-size: 60px;
+    font-size: 50px;
 }
 
 /*fonts */
