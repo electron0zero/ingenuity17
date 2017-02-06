@@ -4,6 +4,7 @@ permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
+minify_html: true
 
 ### template colors, used site-wide via css ###
 colors:
@@ -50,3 +51,4 @@ kramdown:
 
 gems:
   - jekyll-sitemap
+  - octopress-minify-html
