@@ -22,5 +22,6 @@ Registration: On-spot open registration
 Obscenity or vulgarity in any of the performances will get the participant disqualified.
 
 Contact:
-<br>Nikhita Agarwal: +91- 7737350440
-<br>Sourabh Kaushal- +91-9001116412
+
+<br>Nikhita Agarwal: <a href="tel:+917737350440">+91-7737350440</a>
+<br>Sourabh Kaushal: <a href="tel:+919001116412">+91-9001116412</a>
