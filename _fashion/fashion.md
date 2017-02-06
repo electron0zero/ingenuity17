@@ -13,7 +13,7 @@ layout: event
 - No outsiders except the participants walking the ramp will be allowed. Teams are not allowed to bring any helpers for makeup, hairdo, props, costumes, etc. and has to be managed by the participants itself.
 - Participants should submit their music tracks (.mp3 format) 1 hour prior to the start of the event. 
 - Participants are requested not to showcase any form of vulgarity while performing, be it through props, music, etc. Anything deemed as obscene or vulgar by the organizers will lead to disqualification.
-- Props are allowed with prior permission from the organizers. A list of the props to be used should be given to the organizers before 25th February 2017. The list can be mailed to <a href="mailto:pr@ingenuityfest.in"><u>pr@ingenuityfest.in</u></a> . No props will be provided by the organizers.Any kind of fluid, powder or any other heavy object is not allowed on the stage.
+- Props are allowed with prior permission from the organizers. A list of the props to be used should be given to the organizers before 25th February 2017. The list can be mailed to <a class="hot-link" href="mailto:pr@ingenuityfest.in"><u>pr@ingenuityfest.in</u></a> . No props will be provided by the organizers.Any kind of fluid, powder or any other heavy object is not allowed on the stage.
 - Equipment provided by the organizers to the teams should be handled with care and in case of damages the team will be charged.
 - Teams are advised to reach campus at least 2 hours before the event.
 - The organizers may change the rules as and when required.

@@ -18,7 +18,7 @@ layout: event
 - The Organizing Committee has the right to mend rules, disqualify entries or cancel or cut-short the event.
 
 Contact:
-<br>Nikhil Nair: <a href="tel:+917340080834">+91-7340080834</a>
-<br>Saloni Sachdeva: <a href="tel:+919650109596">+91-9650109596</a>
+<br>Nikhil Nair: <a class="hot-link" href="tel:+917340080834">+91-7340080834</a>
+<br>Saloni Sachdeva: <a class="hot-link" href="tel:+919650109596">+91-9650109596</a>
 
 

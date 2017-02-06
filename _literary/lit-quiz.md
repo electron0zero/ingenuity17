@@ -39,5 +39,5 @@ date:   2015-04-21 12:12:12
 - The final result would be made on overall scores.
 
 Contact:
-<br>Akshay Gupta: <a href="tel:+917737350378">+91-7737350378</a>
-<br>Jharna Shrivastava: <a href="tel:+918823959600">+91-8823959600</a>
+<br>Akshay Gupta: <a class="hot-link" href="tel:+917737350378">+91-7737350378</a>
+<br>Jharna Shrivastava: <a class="hot-link" href="tel:+918823959600">+91-8823959600</a>

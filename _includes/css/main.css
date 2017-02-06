@@ -395,6 +395,18 @@ nav ul li:hover, nav ul li.active {
 }
 
 
+/*make links great(hot) again*/
+.hot-link {
+    color: #1A0DAB;
+    text-decoration: none;
+    
+}
+.hot-link:hover, .hot-link:active {
+    background-color: yellow;
+    text-decoration: none;
+}
+
+
 
 /*a:hover {*/
      /*border glow effect on hover*/

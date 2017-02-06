@@ -33,5 +33,5 @@ Registration: <u>Online<u>
 - The decision of the judges will be final and binding.
 
 Contact:
-<br>Nikhita Agarwal: <a href="tel:+917737350440">+91-7737350440</a>
-<br>Sourabh Kaushal- <a href="tel:+919001116412">+91-9001116412</a>
+<br>Nikhita Agarwal: <a class="hot-link" href="tel:+917737350440">+91-7737350440</a>
+<br>Sourabh Kaushal- <a class="hot-link" href="tel:+919001116412">+91-9001116412</a>

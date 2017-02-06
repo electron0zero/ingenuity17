@@ -14,5 +14,5 @@ Awaken your innermost ‘Robert Frost’ and translate that picture into a poem.
 - Last date to submit the entries: Feb 28th 2017
 
 For any queries, Contact:
-<br>Mahima C- <a href="tel:+917023065415">+91-7023065415</a>
-<br>Nikhil Nair- <a href="tel:+917340080834">+91-7340080834</a>
+<br>Mahima C- <a class="hot-link" href="tel:+917023065415">+91-7023065415</a>
+<br>Nikhil Nair- <a class="hot-link" href="tel:+917340080834">+91-7340080834</a>
