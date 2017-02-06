@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<script>
+    document.body.style.backgroundImage = "url( {{page.image}} )";
+    document.body.style.backgroundSize = "contain";
+    document.body.style.backgroundRepeat = "no-repeat";
+</script>
+
+<div class="card__content" >
+  <div class="card__caption">
+    <h2 class="card__title">{{ page.title }}</h2>
+    <h3 class="card_subtitle">{{page.subtitle}}</h3>
+  </div>
+  <div class="card__copy">
+    {{ page.content }}
+    {% include registration.html %}
+  </div>
+</div>

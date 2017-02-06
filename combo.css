@@ -1,6 +1,7 @@
 ---
 ---
-{% include css/base.css %}
+
+{% include css/modern-blog.css %}
 {% include css/skeleton.css %}
+{% include css/base.css %}
 {% include css/main.css %}
-{% include css/extra.css %}
