@@ -25,5 +25,5 @@ date:   2015-04-20 12:12:12
 - Multiple performances aren’t allowed.
 
 <br>Contact:
-<br>Jharna Shrivastava :8823959600
-<br>Raghav Mittal :7615874691
+<br>Jharna Shrivastava - <a href="tel:+918823959600">+91-8823959600</a>
+<br>Raghav Mittal - <a href="tel:+917615874691">+91-7615874691</a>

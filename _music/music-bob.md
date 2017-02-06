@@ -24,4 +24,4 @@ date:   2015-04-20 12:12:12
 Voorpret reserves the right to make any last minute changes in the rules, and disqualify any participating band on grounds of misconduct and/or obscenity.
 
 <br>Contact: 
-<br>Mrinal +91-9717529516
+<br>Mrinal <a href="tel:+919717529516">+91-9717529516</a>
