@@ -1,4 +1,5 @@
 <span class="links">
+    <a href="/"><i class="fa fa-home fa-3x sm-padding sm-hover"></i></a>
     <a target="_blank" href="https://www.facebook.com/ingenuity.niituniversity/"><i class="fa fa-facebook-square fa-3x sm-padding sm-hover"></i></a>
     <a target="_blank" href="https://www.instagram.com/ingenuity_fest/"><i class="fa fa-instagram fa-3x sm-padding sm-hover"></i></a>
     <a target="_blank" href="https://www.snapchat.com/add/ingenuity17"><i class="fa fa-snapchat-square fa-3x sm-padding sm-hover"></i></a>
