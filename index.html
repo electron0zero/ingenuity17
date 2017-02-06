@@ -14,7 +14,8 @@ layout: default
 {% for page in site.posts reversed %}
     {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
     <!--style="background-image:url({{ post.bg-img }});" This line gets and sets the bg image of page-->
-    <div id="{{id}}" class="section p-{{id}}" style="background-image:url({{ page.bg-img }}); background-repeat: no-repeat; background-size: cover;">
+    <div id="{{id}}" class="section p-{{id}}" style="background-image:url({{ page.bg-img }});  overflow: auto; 
+    background-attachment: fixed; background-repeat: no-repeat; background-size: cover;">
         <div class="container {{ page.style }}">
             {{ page.content }}
         </div>

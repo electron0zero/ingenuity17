@@ -51,7 +51,7 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #fff;
+		/*background: #fff;*/
 		font: 14px/21px "Roboto", "HelveticaNeue-Light", Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */

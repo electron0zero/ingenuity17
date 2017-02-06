@@ -11,7 +11,7 @@ html { box-sizing: border-box; }
 .border-{{c[0]}} { border-color: {{ c[1] }} !important; }
 .text-{{c[0]}}   { color: {{ c[1] }}; }
 .text-{{c[0]}} a { color: {{ c[1] }}; }
-.bg-{{c[0]}}     { background-color: {{ c[1] }} !important; }
+/*.bg-{{c[0]}}     { background-color: {{ c[1] }} !important; }*/
 {% endfor %}
 
 /* ----- per-post colors! ----- */
@@ -360,7 +360,7 @@ nav ul li:hover, nav ul li.active {
     text-align: center;
     color: #fff;
     opacity: 0;
-    background: rgba(240,95,64,.9);
+    background: rgba(128,128,128,.9);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
