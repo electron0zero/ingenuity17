@@ -2,7 +2,7 @@
 layout: event
 title:  "Story Crafter"
 subtitle: ""
-image: "img/events/literary/st.jpg"
+image: "img/events/literary/story.jpg"
 date:   2015-04-21 12:12:12
 ---
 

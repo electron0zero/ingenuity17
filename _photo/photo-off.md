@@ -2,7 +2,7 @@
 layout: event
 title:  "Keyframe"
 subtitle: "Offline Photography Event"
-image: "img/d.jpg"
+image: "img/events/photography/ph.jpg"
 date:   2015-04-21 12:12:12
 ---
 
