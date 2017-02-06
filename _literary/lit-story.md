@@ -15,5 +15,5 @@ date:   2015-04-21 12:12:12
 - Last date to submit the entries: Feb 28th 2017
 
 For any queries, Contact:
-<br>Mahima C- 07023065415
-<br>Nikhil Nair- 07340080834
+<br>Mahima C- <a href="tel:+917023065415">+91-7023065415</a>
+<br>Nikhil Nair- <a href="tel:+917340080834">+91-7340080834</a>
