@@ -430,6 +430,20 @@ nav ul li:hover, nav ul li.active {
     /*opacity: 0.8;*/
     font-size: 60px;
 }
+
+/*fonts */
+
+.roboto {
+    font-family: Roboto;
+}
+
+.aclonica {
+    font-family: Aclonica;
+}
+
+.orbitron {
+    font-family: Orbitron;
+}
 /*a:hover {*/
      /*border glow effect on hover*/
      /*box-shadow: 0px 0px 20px #000;*/
