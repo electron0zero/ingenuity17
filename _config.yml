@@ -41,6 +41,9 @@ collections:
   fashion:
     output: true
     permalink: /:path
+  members:
+    output: true
+    permalink: /:path
 
 kramdown:
   auto_ids:  false
