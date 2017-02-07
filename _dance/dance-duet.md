@@ -25,8 +25,8 @@ Registration: <u>Online<u>
 - The participants selected will perform for 3-4 minutes. Exceeding the time limit will result in negative marking.
 - The guidelines and rules for the elimination round are to be followed in the final round as well.
 
-<br>
-### Judging Criteria		
+
+### Judging Criteria
 
 - Coordination/Synchronization
 - Props Used
