@@ -4,14 +4,16 @@ layout: default
 
 <nav style="opacity: 0.5;">
   <ul>
-    {% for node in site.posts reversed %} 
+    {% assign sorted_pages = site.homepages | sort:"order" %}
+    {% for node in sorted_pages %} 
     {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
     <li class="p-{{id}} "><a href="#{{id}}" style="text-decoration:none;color: white;" >{{node.title}}</a></li>
     {% endfor %}
   </ul>
 </nav>
 
-{% for page in site.posts reversed %}
+{% assign sorted_pages = site.homepages | sort:"order" %}
+{% for page in sorted_pages %}
     {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
     <!--style="background-image:url({{ post.bg-img }});" This line gets and sets the bg image of page-->
     <div id="{{id}}" class="section p-{{id}}" style="background-image:url({{ page.bg-img }});  overflow: auto; 
@@ -25,7 +27,7 @@ layout: default
 <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.4.0/trianglify.min.js"></script>-->
 
 <!--add Trianglify background -->
-<!--{% for page in site.posts reversed %}
+<!--{% for page in site.homepages reversed %}
     {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
         {% if page.home %}-->
             <!--it's home page set random color-->
