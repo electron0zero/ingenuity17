@@ -402,8 +402,7 @@ nav ul li:hover, nav ul li.active {
     
 }
 .hot-link:hover, .hot-link:active {
-    background-color: yellow;
-    text-decoration: none;
+    background-color: grey;
 }
 
 /*timer text style*/
