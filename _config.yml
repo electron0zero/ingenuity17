@@ -43,8 +43,7 @@ collections:
     output: true
     permalink: /:path
   members:
-    output: true
-    permalink: /:path
+  homepages:
 
 kramdown:
   auto_ids:  false
