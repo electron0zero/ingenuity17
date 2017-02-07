@@ -4,7 +4,7 @@ permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-minify_html: true
+minify_html: false
 
 ### template colors, used site-wide via css ###
 colors:
