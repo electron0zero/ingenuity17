@@ -1,9 +1,9 @@
 ---
 layout: event
 title:  "Story Crafter"
-subtitle: ""
+subtitle: "Write, Write, Write"
 image: "img/events/literary/story.jpg"
-date:   2015-04-21 12:12:12
+date:   2015-04-23 12:12:12
 ---
 
 ### Rules : 

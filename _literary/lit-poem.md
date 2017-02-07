@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Poem a Picture"
-subtitle: ""
+subtitle: "Your Words For A Picture"
 image: "img/events/literary/poem.jpg"
 date:   2015-04-21 12:12:12
 ---

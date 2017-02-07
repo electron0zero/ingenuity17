@@ -1,9 +1,9 @@
 ---
 layout: event
 title:  "Vilakshan-Quiz"
-subtitle: ""
+subtitle: "That Was Close"
 image: "img/events/literary/quiz.jpg"
-date:   2015-04-21 12:12:12
+date:   2015-04-22 12:12:12
 ---
 
 ### Rules
