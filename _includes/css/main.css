@@ -408,15 +408,12 @@ nav ul li:hover, nav ul li.active {
 
 /*timer text style*/
 #clockdiv{
-    font-family: sans-serif;
     color: #fff;
     display: inline-block;
-    font-weight: 100;
     text-align: center;
-    font-size: 30px;
 }
 
-#clockdiv > div{
+#clockdiv > div {
     display: inline-block;
 }
 
@@ -429,6 +426,10 @@ nav ul li:hover, nav ul li.active {
     /*background-color: black;*/
     /*opacity: 0.8;*/
     font-size: 50px;
+    min-height: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    /*overflow: hidden;*/
 }
 
 /*fonts */
