@@ -359,8 +359,8 @@ nav ul li:hover, nav ul li.active {
     height: 100%;
     text-align: center;
     color: #fff;
-    opacity: 0;
-    background: rgba(128,128,128,.9);
+    /*opacity: 0;*/
+    background: rgba(128,128,128,.5);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -377,22 +377,24 @@ nav ul li:hover, nav ul li.active {
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     padding: 0 15px;
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    /*font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;*/
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
-    text-transform: uppercase;
-    font-size: 14px;
-    font-weight: 600;
+    /*text-transform: uppercase;*/
+    font-size: 20px;
+    padding-bottom: 20px;
+    /*font-family: 'Aclonica';*/
+    /*font-weight: 600;*/
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-    font-size: 18px;
+    font-size: 20px;
 }
 
-.portfolio-box:hover .portfolio-box-caption {
+/*.portfolio-box:hover .portfolio-box-caption {
     opacity: 1;
-}
+}*/
 
 
 /*make links great(hot) again*/

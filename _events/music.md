@@ -1,6 +1,7 @@
 ---
 layout: category
 title:  "Music"
+top-word: "Explore"
 image: "img/events/mu.jpg"
 date:   2015-04-21 12:12:12
 ---

@@ -1,6 +1,7 @@
 ---
 layout: category
 title:  "Fashion"
+top-word: "Explore"
 image: "img/events/fa.jpg"
 date:   2015-04-21 12:12:12
 ---

@@ -1,6 +1,7 @@
 ---
 layout: category
 title:  "Dramatics"
+top-word: "Explore"
 image: "img/events/dr.jpg"
 date:   2015-04-21 12:12:12
 ---

@@ -1,6 +1,7 @@
 ---
 layout: category
 title:  "Literary/Photography"
+top-word: "Explore"
 image: "img/events/li.jpg"
 date:   2015-04-21 12:12:12
 ---
