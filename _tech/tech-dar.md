@@ -2,7 +2,7 @@
 layout: event
 title:  "Darwin Games"
 subtitle: "Something shitty"
-image: "img/f.jpg"
+image: "img/events/tech/d.jpg"
 date:   2015-04-21 12:12:12
 ---
 

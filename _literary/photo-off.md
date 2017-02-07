@@ -17,6 +17,6 @@ date:   2015-04-21 12:12:12
 - There can be multiple participants from one college.
 - The decision of the judge’s will be final and binding.
 
-<br>For further queries contact us at:
+<h4>For further queries contact us at:
 <br>Aman Jain - <a class="hot-link" href="tel:+918107157679">+91-8107157679</a>
-<br>Sowmya Charlu - <a class="hot-link" href="tel:+917737346004">+91-7737346004</a>
+<br>Sowmya Charlu - <a class="hot-link" href="tel:+917737346004">+91-7737346004</a></h4>

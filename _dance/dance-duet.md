@@ -25,7 +25,7 @@ Registration: <u>Online<u>
 - The guidelines and rules for the elimination round are to be followed in the final round as well.
 
 <br>
-## Judging Criteria		
+### Judging Criteria		
 
 - Coordination/Synchronization
 - Props Used
@@ -35,5 +35,6 @@ Registration: <u>Online<u>
 - Entertainment Value
 
 Contact:
+
 <br>Nikhita Agarwal: <a class="hot-link" href="tel:+917737350440">+91-7737350440</a>
-<br>Sourabh Kaushal- <a class="hot-link" href="tel:+919001116412">+91-9001116412</a>
+<br>Sourabh Kaushal: <a class="hot-link" href="tel:+919001116412">+91-9001116412</a>

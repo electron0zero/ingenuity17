@@ -2,7 +2,7 @@
 layout: event
 title:  "Code Jam"
 subtitle: "Showoff your coding skills"
-image: "img/f.jpg"
+image: "img/events/tech/co.jpg"
 date:   2015-04-21 12:12:12
 ---
 
