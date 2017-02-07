@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Karan Vinayak"
-image: "img/team/a1.png"
-link: 
-date:   2015-04-21 12:12:12
+title:  "Ajeya Kapoor"
+image: "img/team/a.png"
+link: https://www.facebook.com/ajeya.kapoor
+date: 2015-04-21 12:12:12
 ---
