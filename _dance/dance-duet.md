@@ -7,6 +7,7 @@ date:   2015-04-21 12:12:12
 ---
 
 Registration: <u>Online<u>
+
 - There are no limits on the number of entries per college.
 - Elimination round 
 - Elimination round will take place if there are more than 10 entries for the competition.
