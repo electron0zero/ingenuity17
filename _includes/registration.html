@@ -6,9 +6,15 @@
                          Saloni: <a class="hot-link" href="tel:+919650109596" style="color: #ff8000;">+91-9650109596</a><br><br>
             See you at the Rocambolesque fest!</h4>
     </div>
+
+    
     <div id="reg-btn" style="text-align:center">
             <h4 class="{{ include.font }}">Register Now at</h4><a href="https://insider.in/ingenuity-mar3-5-2017/event" target="_blank">
-              <center><img src="img/spo/insiderLogow.png" height="50" width="200"/>
+              <center> 
+
+              {% if page.events %} <img src="img/spo/insiderLogow.png" height="50" width="200"/> {% else %} <img src="img/spo/insiderLogo.png" height="50" width="200"/>
+              {% endif %}
+
               </center></a>
     </div>
 </div>
