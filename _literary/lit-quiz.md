@@ -20,24 +20,25 @@ date:   2015-04-21 12:12:12
 - It will be a written round, with a set of 10 questions flashed on the screen.
 - We expect one word or short sentences as answers. Save the long sentences for our literary competitions !
 
-#### 1st Round: Picture Round
+
+### 1st Round: Picture Round
 - The 6 teams will have to answer the questions based on a picture flashed on the screen.
 - There will be 2 questions to each team. If a team is unable to answer the question, it will be passed on to the next team.
 - The original team will be 1 minute to think answer. 
 - The team which gets the passed question later on doesn’t get any time to answer. It has to be spontaneous.
 - Top 3 teams will proceed to the next round.
 
-#### 2rd Round: Rapid fire
+### 2rd Round: Rapid fire
 - There will be 5 rapid fire questions to each team with only a buffer of 5 seconds to answer.
 - The top 2 teams will proceed to  the final round
 
-
-#### 3rd Round: Buzzer round
+### 3rd Round: Buzzer round
 - The top two teams of round two will proceed to the third and final round.
 - A buzzer round, with a mixed bag of 10 easy and tough questions. 
 - If one buzzer rings, other won’t.
 - The final result would be made on overall scores.
 
+<h4>
 Contact:
 <br>Akshay Gupta: <a class="hot-link" href="tel:+917737350378">+91-7737350378</a>
-<br>Jharna Shrivastava: <a class="hot-link" href="tel:+918823959600">+91-8823959600</a>
+<br>Jharna Shrivastava: <a class="hot-link" href="tel:+918823959600">+91-8823959600</a></h4>

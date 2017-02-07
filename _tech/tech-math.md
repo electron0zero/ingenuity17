@@ -2,7 +2,7 @@
 layout: event
 title:  "Math Jam"
 subtitle: "For all the mathematicians out there"
-image: "img/f.jpg"
+image: "img/events/tech/m.jpg"
 date:   2015-04-21 12:12:12
 ---
 

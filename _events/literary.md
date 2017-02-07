@@ -1,6 +1,6 @@
 ---
 layout: category
-title:  "Literary"
+title:  "Literary/Photography"
 image: "img/events/li.jpg"
 date:   2015-04-21 12:12:12
 ---

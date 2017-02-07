@@ -29,9 +29,6 @@ collections:
   literary:
     output: true
     permalink: /:path
-  photo:
-    output: true
-    permalink: /:path
   drama:
     output: true
     permalink: /:path

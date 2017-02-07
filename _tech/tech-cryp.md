@@ -2,7 +2,7 @@
 layout: event
 title:  "Cryptography"
 subtitle: "For all those interested in cipher"
-image: "img/f.jpg"
+image: "img/events/tech/c.jpg"
 date:   2015-04-21 12:12:12
 ---
 

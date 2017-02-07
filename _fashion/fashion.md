@@ -1,6 +1,7 @@
 ---
 layout: event
 title:  "Fashion Show"
+subtitle: "Moda Videshaj"
 image: "img/events/fashion/fa.jpg"
 date:   2015-04-22 12:12:12
 layout: event
@@ -18,3 +19,8 @@ layout: event
 - Teams are advised to reach campus at least 2 hours before the event.
 - The organizers may change the rules as and when required.
 - The final decision lies in the hands of the organisers and the judges. The decision of the judges will be final and binding.
+
+<h4>Contact:
+<br>Hitika Handa: <a class="hot-link" href="tel:+917340080834">+91-961071144</a>
+<br>Shivam Shandil: <a class="hot-link" href="tel:+919650109596">+91-7737346038</a>
+</h4>

@@ -24,6 +24,8 @@ date:   2015-04-20 12:12:12
 - A registration fee of Rs.500 will be charged.
 - Multiple performances aren’t allowed.
 
-<br>Contact:
+<h5>
+Contact:
 <br>Jharna Shrivastava - <a class="hot-link" href="tel:+918823959600">+91-8823959600</a>
 <br>Raghav Mittal - <a class="hot-link" href="tel:+917615874691">+91-7615874691</a>
+</h5>

@@ -5,8 +5,11 @@ subtitle: ""
 image: "img/events/literary/poem.jpg"
 date:   2015-04-21 12:12:12
 ---
+<p><h4>
 Pictures speak a thousand words. We want to know what the picture tells you.  
 Awaken your innermost ‘Robert Frost’ and translate that picture into a poem.
+</h4></p>
+
 ### Rules
 - No plagiarism is allowed
 - The participants will be judged based on their creativity, form & flow, originality and overall impact

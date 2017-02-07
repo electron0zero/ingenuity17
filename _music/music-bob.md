@@ -20,8 +20,8 @@ date:   2015-04-20 12:12:12
 - Participants must get their own equipment. Only Drums, Amplifiers and Leads will be provided.  Please check the availability of the instrument with the organizing team prior to the event. In case of non-availability, you will have to arrange the instruments on your own.
 - Use of any unfair means or non-compliance to rules will result in immediate disqualification. 
 - The Decision taken by the judges will be final and binding on all teams.
+<h5>Voorpret reserves the right to make any last minute changes in the rules, and disqualify any participating band on grounds of misconduct and/or obscenity.</h5>
 
-Voorpret reserves the right to make any last minute changes in the rules, and disqualify any participating band on grounds of misconduct and/or obscenity.
-
-<br>Contact: 
-<br>Mrinal <a class="hot-link" href="tel:+919717529516">+91-9717529516</a>
+<h5><br>
+Contact: 
+<br>Mrinal <a class="hot-link" href="tel:+919717529516">+91-9717529516</a></h5>
