@@ -1,8 +1,8 @@
 ---
 layout: event
 title:  "Drama"
-subtitle: "Jijivisha-Stage Play"
-image: "img/events/drama/sp.jpg"
+subtitle: "Shinrabasho-Stage Play"
+image: "img/events/drama/msp.jpg"
 date:   2015-04-24 12:12:12
 layout: event
 ---
