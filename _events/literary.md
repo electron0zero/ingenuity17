@@ -1,6 +1,6 @@
 ---
 layout: category
-title:  "Literary/Photography"
+title:  "Photography/Literary"
 subtitle: "Storytellers"
 top-word: "Explore"
 image: "img/events/li.jpg"

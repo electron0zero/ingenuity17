@@ -2,7 +2,7 @@
 layout: event
 title:  "Drama"
 subtitle: "Justuju-Street Play"
-image: "img/events/drama/street.jpg"
+image: "img/events/drama/mstpl.jpg"
 date:   2015-04-24 12:12:12
 layout: event
 ---
