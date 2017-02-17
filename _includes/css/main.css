@@ -449,6 +449,14 @@ nav ul li:hover, nav ul li.active {
     font-family: Orbitron;
 }
 
+/*.some-element {
+  display: none;
+
+}
+
+.some-div:hover .some-element {
+  display:inline-block;
+}*/
 
 /*.vertical-center {
   display: flex;
