@@ -7,4 +7,4 @@
     <a target="_blank" href="mailto:ingenuity@st.niituniversity.in"><i class="fa fa-envelope-o fa-3x sm-padding sm-hover" ></i></a>
 </span>
 
-<span> Made with <a target="_blank" style="text-decoration:none;" href="https://www.youtube.com/watch?v=2-OQhot_ml0">&#x1F499;</a> by Team ingeNUity</span>
+<span> Made with <a target="_blank" style="text-decoration:none;" href="https://www.youtube.com/watch?v=2-OQhot_ml0">&#x1F499;</a> by <a href="https://github.com/mrinalpande">mrinalpande</a> & <a href="https://github.com/electron0zero">electron0zero</a></span>
