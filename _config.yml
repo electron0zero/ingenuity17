@@ -38,7 +38,6 @@ collections:
   fashion:
     output: true
     permalink: /:path
-  members:
   homepages:
 
 kramdown:
