@@ -364,6 +364,7 @@ nav ul li:hover, nav ul li.active {
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
+    opacity: 0;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
@@ -392,9 +393,9 @@ nav ul li:hover, nav ul li.active {
     font-size: 20px;
 }
 
-/*.portfolio-box:hover .portfolio-box-caption {
+.portfolio-box:hover .portfolio-box-caption {
     opacity: 1;
-}*/
+}
 
 
 /*make links great(hot) again*/
