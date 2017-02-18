@@ -32,7 +32,7 @@ collections:
   drama:
     output: true
     permalink: /:path
-  tech:
+  photo:
     output: true
     permalink: /:path
   fashion:
