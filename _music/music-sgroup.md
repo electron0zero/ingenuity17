@@ -26,6 +26,5 @@ date:   2015-04-20 12:12:12
 
 <h5>
 Contact:
-<br>Jharna Shrivastava - <a class="hot-link" href="tel:+918823959600">+91-8823959600</a>
 <br>Raghav Mittal - <a class="hot-link" href="tel:+917615874691">+91-7615874691</a>
 </h5>
