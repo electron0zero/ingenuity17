@@ -6,11 +6,14 @@ image: "img/events/drama/whos.jpg"
 date:   2015-04-24 12:12:12
 layout: event
 ---
-- Two participants will act out a scene
-- Two participants will act out a scene and some lines will be given to them.
-- They have to incorporate the given lines in the scene.
-- Judgement will be done on how seamlessly and funnily they have used the lines in the scene.
-- Preparation time of 10 minutes will be given.
+* Each participant plays individually
+* The event will have 4 rounds, each comprising of a different game:
+  1. Helping Hands
+  2. Weird Newscasters
+  3. Hoedown
+  4. Scenes from a hat
+* In the event of a tie, the winner will be decided by the two participants going one on one in the game “Whose line”
+* The moderator’s decision is final and cannot be challenged.
 
 <p><br>
 Contact:

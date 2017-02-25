@@ -13,7 +13,7 @@ layout: event
 <li>The play can be in Hindi or English.</li>
 <li>Number of participants per team cannot exceed 25. There is no limit for minimum number of participants. If number of members per team are more than 25, it will result in disqualification</li>
 <li>Minimum Time : 15 min. Maximum time : 25 min. </li>
-<li>Minimal props are allowed. Props to be arranged by the participating teams themselves. The props to be used by the team have to be approved by Rangmanch NU coordinator before 25th February,2017.</li>
+<li>Minimal props are allowed. Props to be arranged by the participating teams themselves. The props to be used by the team have to be approved by Rangmanch NU coordinator before 27th February,2017.</li>
 <li>Musical instruments (if any) to be arranged and brought by the participating team. The organising team will not take any responsibility for its safety/security.</li>
 <li>No electronic or pre-recorded sounds are allowed.</li>
 <li>Write up based on the theme of portrayal should be sent before 25th Feb 2015 to <a class="hot-link" href="mailto:pr@ingenuityfest.in">pr@ingenuityfest.in</a>.</li>
