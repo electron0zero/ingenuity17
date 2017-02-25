@@ -16,7 +16,7 @@ layout: event
 <li>One team member should be present to give sound and light cues.</li>
 <li>The script of the play should be sent before 28th February 2017 to <a class="hot-link" href="mailto:pr@ingenuityfest.in">pr@ingenuityfest.in</a>. The play must exactly follow the script sent at the time of online registration. Any changes in the script should be approved by Rangmanch NU’s Coordinator or else it will result in disqualification.</li>
 <li>Vulgarity and attack on any person, community or religion will result in deduction of points.</li>
-<li>Microphones and light will be provided Teams should inform the Rangmanch NU coordinator about their requirement before 25th February 2017.</li>
+<li>Microphones and light will be provided Teams should inform the Rangmanch NU coordinator about their requirement before 27th February 2017.</li>
 <li>Major props have to be brought by teams themselves. Basic props like chair, table will be provided only if you have intimated the organizers about the requirements before 24th February 2017. </li>
 <li>The Organizing Committee has the right to mend rules, disqualify entries or cancel or cut-short the event.</li>
 </ul>
