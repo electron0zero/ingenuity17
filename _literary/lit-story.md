@@ -5,6 +5,13 @@ subtitle: "Write, Write, Write"
 image: "img/events/literary/story.jpg"
 date:   2015-04-23 12:12:12
 ---
+<h4>
+For all the writers out there, grab your quills, pens and pencils, write away your stories. 
+Life and carnivals are similar. They both amaze and frighten you (And aren’t fun if it’s too long). Tell us about the merry go rounds and roller coasters of your life, tell us about “The Carnival in your Life”.
+Send us your story (up to 1000 words) about “The Carnival in your Life” and win prizes. 
+<br>
+Please follow the link for more details: <a href="https://www.facebook.com/ingenuity.niituniversity/photos/a.449664598402184.90991.442658039102840/1261502537218382/?type=3&theater" target="_blank">Link</a>
+</h4>
 
 ### Rules : 
 - No plagiarism is allowed
