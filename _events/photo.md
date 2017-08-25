@@ -11,7 +11,7 @@ date:   2015-04-21 12:12:12
         <div class="row no-gutter">
             {% for photos in site.photo %}
                 <div class="col-lg-4 col-sm-6" style="padding: 5px;">
-                    <a href="{{ photos.url }}" class="portfolio-box">
+                    <a href="{{ site.baseurl }}{{ photos.url }}" class="portfolio-box">
                         <img src="{{ photos.image }}" class="img-responsive" alt="tech Image">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">

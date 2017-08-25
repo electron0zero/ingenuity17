@@ -11,7 +11,7 @@ date:   2015-04-21 12:12:12
         <div class="row no-gutter">
             {% for drama in site.drama %}
                 <div class="col-lg-4 col-sm-6" style="padding: 5px;">
-                    <a href="{{ drama.url }}" class="portfolio-box">
+                    <a href="{{ site.baseurl }}{{ drama.url }}" class="portfolio-box">
                         <img src="{{ drama.image }}" class="img-responsive" alt="drama Image">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">

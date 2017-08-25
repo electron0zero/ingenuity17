@@ -12,7 +12,7 @@ date:   2015-04-21 12:12:12
         <div class="row no-gutter">
             {% for dance in site.dance %}
                 <div class="col-lg-4 col-sm-6" style="padding: 5px;">
-                    <a href="{{ dance.url }}" class="portfolio-box">
+                    <a href="{{ site.baseurl }}{{ dance.url }}" class="portfolio-box">
                         <img src="{{ dance.image }}" class="img-responsive" alt="Dance Image">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">

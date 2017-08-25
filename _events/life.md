@@ -11,7 +11,7 @@ date:   2015-04-21 12:12:12
         <div class="row no-gutter">
             {% for fashion in site.fashion %}
                 <div class="col-lg-4 col-sm-6" style="padding: 5px;">
-                    <a href="{{ fashion.url }}" class="portfolio-box">
+                    <a href="{{ site.baseurl }}{{ fashion.url }}" class="portfolio-box">
                         <img src="{{ fashion.image }}" class="img-responsive" alt="fashion Image">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">

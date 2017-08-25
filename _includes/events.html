@@ -3,7 +3,7 @@
         <div class="row no-gutter">
             {% for event in site.events %}
                 <div class="col-lg-4 col-sm-6" style="padding: 5px;">
-                    <a href="{{ event.url }}" class="portfolio-box">
+                    <a href="{{ site.baseurl }}{{ event.url }}" class="portfolio-box">
                         <img src="{{ event.image }}" class="img-responsive" alt="Event Image">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">

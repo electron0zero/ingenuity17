@@ -1,4 +1,5 @@
 ### site serving configuration ###
+baseurl: /ingenuity17
 exclude: [CNAME, README.md, .gitignore, debug.log]
 permalink: /:title ## disables post output
 timezone: null

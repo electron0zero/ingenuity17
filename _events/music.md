@@ -11,7 +11,7 @@ date:   2015-04-21 12:12:12
         <div class="row no-gutter">
             {% for music in site.music %}
                 <div class="col-lg-4 col-sm-6" style="padding: 5px;">
-                    <a href="{{ music.url }}" class="portfolio-box">
+                    <a href="{{ site.baseurl }}{{ music.url }}" class="portfolio-box">
                         <img src="{{ music.image }}" class="img-responsive" alt="music Image">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
